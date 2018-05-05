@@ -51,7 +51,7 @@ endif
 endif
 
 # FreeType prebuilt
-LOCAL_SHARED_LIBRARIES := freetype-prebuilt
+LOCAL_STATIC_LIBRARIES := freetype-prebuilt
 
 
 LOCAL_STATIC_LIBRARIES := cpufeatures
