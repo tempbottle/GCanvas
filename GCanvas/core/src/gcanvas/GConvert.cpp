@@ -10,6 +10,7 @@
 #include <ctype.h>
 #include <map>
 #include <cstdlib>
+#include <string.h>
 
 GColorRGBA StrValueToColorRGBA(const char *value)
 {

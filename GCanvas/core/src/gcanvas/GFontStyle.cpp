@@ -7,6 +7,7 @@
  * the LICENSE file in the root directory of this source tree.
  */
 #include <cstdlib>
+#include <string.h>
 #include "GFontStyle.h"
 #include "GStrSeparator.h"
 

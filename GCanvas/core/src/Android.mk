@@ -54,7 +54,7 @@ endif
 LOCAL_STATIC_LIBRARIES := freetype-prebuilt
 
 
-LOCAL_STATIC_LIBRARIES := cpufeatures
+LOCAL_STATIC_LIBRARIES += cpufeatures
 include $(BUILD_SHARED_LIBRARY)
 
 include $(LOCAL_PATH)/freetype-prebuilt/Android.mk

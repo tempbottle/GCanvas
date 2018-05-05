@@ -6,6 +6,8 @@
  * For the full copyright and license information, please view
  * the LICENSE file in the root directory of this source tree.
  */
+
+#include <string.h>
 #include "GShaderManager.h"
 #include "GShader.h"
 #include "shaders/default.glsl"
